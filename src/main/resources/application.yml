@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: localhost:5673
+    port: 5673
+    virtual-host: test
+    username: admin
+    password: admin123
+    publisher-confirms: true
